@@ -103,7 +103,7 @@ If you are using this repository for your paper, please cite our work
 @inproceedings{zheng2025saving,
   title={Saving Memory via Residual Reduction for DNN Training with Compressed Communication},
   author={Xinjue Zheng and Zhangqiang Ming and Yuchong Hu and Wenxiang Zhou and Rui Wang and Xun Chen and Dan Feng},
-  booktitle={The 31st International European Conference on Parallel and Distributed Computing (Euro-Par)},
+  booktitle={The 31st International European Conference on Parallel and Distributed Computing (Euro-Par2025)},
   pages={221-235},
   url={https://doi.org/10.3724/SP.J.1089.2022.18852}
   year={2025},
